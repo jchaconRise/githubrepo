@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="2"
-  DTS:VersionGUID="{CE8568E6-343F-412F-A5BA-2D5957E6AAC5}">
+  DTS:VersionBuild="3"
+  DTS:VersionGUID="{07EC9436-EBE5-4739-A06A-7B96DADAA2FA}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:Variables />
@@ -50,10 +50,10 @@
           Id="Package\Data Flow Task"
           TopLeft="71.6666655987501,61.5333322330316" />
         <AnnotationLayout
-          Text="another test"
+          Text="another test&#xD;&#xA;kjhdsjkhskjd&#xD;&#xA;"
           ParentId="Package"
           FontInfo="{assembly:Null}"
-          Size="93.3333333333334,60"
+          Size="93.3333333333334,72"
           Id="4960d6b3-1efe-4731-b354-65c0c7baee72"
           TopLeft="274.166662581265,51.9999990701676" />
       </GraphLayout>
